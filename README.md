@@ -6,7 +6,7 @@ Bu repo [Kodluyoruz](https://www.kodluyoruz.org/) React-Native Eğitiminde oluş
 ## Installation
 Öncelikle projeji klonlayın. (Buraya sizin reponuzdan aldığınız link gelecek)
 
-'''git
+'''
 git clone https://github.com/edakarakocc/kodluyoruzilkrepo.git
 '''
 
@@ -14,7 +14,7 @@ git clone https://github.com/edakarakocc/kodluyoruzilkrepo.git
 Projeyi klonladıktan sonre Visual Studio Code programında açınız.
 Linux için:
 
-'''Linux
+'''
 cd kodluyoruzilkrepo
 code .
 '''
