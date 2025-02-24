@@ -6,18 +6,18 @@ Bu repo [Kodluyoruz](https://www.kodluyoruz.org/) React-Native Eğitiminde oluş
 ## Installation
 Öncelikle projeji klonlayın. (Buraya sizin reponuzdan aldığınız link gelecek)
 
-'''
+```
 git clone https://github.com/edakarakocc/kodluyoruzilkrepo.git
-'''
+```
 
 ## Usage
 Projeyi klonladıktan sonre Visual Studio Code programında açınız.
 Linux için:
 
-'''
+```
 cd kodluyoruzilkrepo
 code .
-'''
+```
 
 ## Contributing
 
