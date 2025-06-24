@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Kodluyoruz JS Saat Ödevi</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f4f4f4;
+            color: #333;
+            text-align: center;
+            padding: 20px;
+        }
+        img {
+            width: 300px;
+            height: 62px;
+        }
+        .clock {
+            position: relative;
+            text-align: center;
+            font-size: 60px;
+            font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+            letter-spacing: 7px;
+        }
+        div {
+            margin: 10px 0;
+        }
+    </style>
+</head>
+<body>
+    <div>
+        <img src="https://cdn.sanity.io/images/9kdepi1d/production/65c832d202a503b15d99e628f4313782f3ef50db-300x62.png" alt=""/>
+        <div>
+            Merhaba, <strong><span id="name"></span></strong>! Hoş geldin!
+        </div>
+        <div id="time" class="clock" onload="showTime()"></div>
+        <div>
+            tarihinde
+            <strong>Kodluyoruz Frontend Web Development Patikası</strong>'nın
+            JS bölümü 1.Ödevindesiniz.
+        </div>
+    </div>
+    <script src="odev1.js"></script>
+</body>
+</html>
